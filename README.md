@@ -1,4 +1,5 @@
-# Project #1: Vanilla Website | HTML + CSS + JavaScript
+# Project #1: Vanilla Website
+HTML + CSS + JavaScript
 
 ## Lessons
 
